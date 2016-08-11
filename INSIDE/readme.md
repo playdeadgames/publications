@@ -1,4 +1,4 @@
-# Publications
+# INSIDE Publications
 These are presentations and publications made by Playdead relating to the game <a href="http://playdead.com/inside/">INSIDE</a>.
 See also
 
