@@ -7,6 +7,10 @@ http://www.gdcvault.com/play/1023731/A-Game-That-Listens-The<br>
 http://www.gdcvault.com/play/1023304/Low-Complexity-High-Fidelity-INSIDE (paywalled)<br>
 http://gdcvault.com/play/1023783/Low-Complexity-High-Fidelity-INSIDE (free)<br>
 http://www.gdcvault.com/play/1023254/Temporal-Reprojection-Anti-Aliasing-in (paywalled)<br>
+https://www.youtube.com/watch?v=mQ2KTRn4BMI
+
+"Tools, Tricks and Technologies for Reaching Stutter Free 60 FPS in INSIDE", Unite 2016
+https://docs.google.com/presentation/d/1dew0TynVmtQf8OMLEz_YtRxK32a_0SAZU9-vgyMRPlA/edit
 
 Animation-talk in gdocs (better quality, danish)
 - https://docs.google.com/presentation/d/1QN99FZUQl3KE4c7eg9-GLLEl3Og0FqreJbiTrCc8ZAk/edit
