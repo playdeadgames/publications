@@ -3,6 +3,7 @@ These are presentations and publications made by Playdead relating to the game <
 See also
 
 Video recordings:<br>
+http://gdcvault.com/play/1024126/Huddle-up-Making-the-SPOILER<br>
 http://www.gdcvault.com/play/1023731/A-Game-That-Listens-The<br>
 http://www.gdcvault.com/play/1023304/Low-Complexity-High-Fidelity-INSIDE (paywalled)<br>
 http://gdcvault.com/play/1023783/Low-Complexity-High-Fidelity-INSIDE (free)<br>
