@@ -22,6 +22,9 @@ Full, animated version of INSIDE Rendering
 Starfish-rig Article
 http://www.sota.dk/stuff/starfishrig/starfishRig.html
 
+Interview, DEATH IN DESIGN
+https://vimeo.com/215488901
+
 More talks
 - http://www.schmid.dk/talks/
 - http://loopit.dk/publications/
