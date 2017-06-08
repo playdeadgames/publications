@@ -3,12 +3,11 @@ These are presentations and publications made by Playdead relating to the game <
 See also
 
 Video recordings:<br>
-* http://gdcvault.com/play/1024126/Huddle-up-Making-the-SPOILER<br>(non-gated version from Nordic Game https://www.youtube.com/watch?v=MBuh2ceC-mw )<br>
-* http://www.gdcvault.com/play/1023731/A-Game-That-Listens-The<br>
-* http://www.gdcvault.com/play/1023304/Low-Complexity-High-Fidelity-INSIDE (paywalled)<br>
-* http://gdcvault.com/play/1023783/Low-Complexity-High-Fidelity-INSIDE (free)<br>
-* http://www.gdcvault.com/play/1023254/Temporal-Reprojection-Anti-Aliasing-in (paywalled)<br>
-* https://www.youtube.com/watch?v=mQ2KTRn4BMI
+* [Huddle Up! The Making of (SPOILER) from INSIDE, GDC 2017](http://gdcvault.com/play/1024126/Huddle-up-Making-the-SPOILER) (non-paywalled [version from Nordic Game](https://www.youtube.com/watch?v=MBuh2ceC-mw))<br>
+* [A Game That Listens, GDC 2016](http://www.gdcvault.com/play/1023731/A-Game-That-Listens-The)<br>
+* [Low Complexity, High Fidelity: The Rendering of INSIDE, GDC 2016](http://www.gdcvault.com/play/1023304/Low-Complexity-High-Fidelity-INSIDE) (non-paywalled [version from GDCE2016](http://gdcvault.com/play/1023783/Low-Complexity-High-Fidelity-INSIDE))<br>
+* [Temporal Reprojection Anti-Aliasing](http://www.gdcvault.com/play/1023254/Temporal-Reprojection-Anti-Aliasing-in (paywalled))<br>
+* [Tools, Tricks and Technologies for Reaching Stutter Free 60 FPS in INSIDE](https://www.youtube.com/watch?v=mQ2KTRn4BMI)
 
 "Tools, Tricks and Technologies for Reaching Stutter Free 60 FPS in INSIDE", Unite 2016
 https://docs.google.com/presentation/d/1dew0TynVmtQf8OMLEz_YtRxK32a_0SAZU9-vgyMRPlA/edit
