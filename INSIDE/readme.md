@@ -15,8 +15,8 @@ https://docs.google.com/presentation/d/1dew0TynVmtQf8OMLEz_YtRxK32a_0SAZU9-vgyMR
 Animation-talk in gdocs (better quality, danish)
 - https://docs.google.com/presentation/d/1QN99FZUQl3KE4c7eg9-GLLEl3Og0FqreJbiTrCc8ZAk/edit
 
-Full, animated version of INSIDE Rendering
-- http://f0716f2bff707a1b9e85-36c178e006d3d30c5b9c8dd905f8236a.r70.cf2.rackcdn.com/rendering_inside.pptx
+Full, animated version of "INSIDE Rendering"
+- http://loopit.dk/rendering_inside.pptx
 
 Starfish-rig Article
 http://www.sota.dk/stuff/starfishrig/starfishRig.html
