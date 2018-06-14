@@ -3,7 +3,7 @@ These are presentations and publications made by Playdead relating to the game <
 See also
 
 Video recordings:<br>
-* [Huddle Up! The Making of (SPOILER) from INSIDE, GDC 2017](http://gdcvault.com/play/1024126/Huddle-up-Making-the-SPOILER) (non-paywalled [version from Nordic Game](https://www.youtube.com/watch?v=MBuh2ceC-mw))<br>
+* [Huddle Up! The Making of (SPOILER) from INSIDE, GDC 2017](https://www.youtube.com/watch?v=gFkYjAKuUCE)<br>
 * [A Game That Listens, GDC 2016](http://www.gdcvault.com/play/1023731/A-Game-That-Listens-The)<br>
 * [Low Complexity, High Fidelity: The Rendering of INSIDE, GDC 2016](http://www.gdcvault.com/play/1023304/Low-Complexity-High-Fidelity-INSIDE) (non-paywalled [version from GDCE2016](http://gdcvault.com/play/1023783/Low-Complexity-High-Fidelity-INSIDE))<br>
 * [Temporal Reprojection Anti-Aliasing](https://www.youtube.com/watch?v=2XXS5UyNjjU)<br>
