@@ -9,6 +9,7 @@ Video recordings:<br>
 * [Temporal Reprojection Anti-Aliasing](https://www.youtube.com/watch?v=2XXS5UyNjjU)<br>
 * [Tools, Tricks and Technologies for Reaching Stutter Free 60 FPS in INSIDE](https://www.youtube.com/watch?v=mQ2KTRn4BMI)
 * [Turn It Down 90% - INSIDE VFX, Control Conference 2016](https://www.youtube.com/watch?v=vA3uFC2p8eo)
+* [Subtleties of INSIDE, Konsoll 2017](https://www.youtube.com/watch?v=3pzgnN3pK_8)
 
 "Tools, Tricks and Technologies for Reaching Stutter Free 60 FPS in INSIDE", Unite 2016
 https://docs.google.com/presentation/d/1dew0TynVmtQf8OMLEz_YtRxK32a_0SAZU9-vgyMRPlA/edit
