@@ -3,6 +3,7 @@ These are presentations and publications made by Playdead relating to the game <
 See also
 
 Video recordings:<br>
+* [INSIDE Shipping on iOS, Digital Dragons 2018](https://www.youtube.com/watch?v=bv6Oh4GWk2A)<br>
 * [Huddle Up! The Making of (SPOILER) from INSIDE, GDC 2017](https://www.youtube.com/watch?v=gFkYjAKuUCE)<br>
 * [A Game That Listens, GDC 2016](http://www.gdcvault.com/play/1023731/A-Game-That-Listens-The)<br>
 * [Low Complexity, High Fidelity: The Rendering of INSIDE, GDC 2016](http://www.gdcvault.com/play/1023304/Low-Complexity-High-Fidelity-INSIDE) (non-paywalled [version from GDCE2016](http://gdcvault.com/play/1023783/Low-Complexity-High-Fidelity-INSIDE))<br>
